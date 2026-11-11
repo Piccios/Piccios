@@ -1,43 +1,13 @@
-# Hi, I'm Lorenzo Picchi
+# Hey, I'm Lorenzo 👋
 
-**Full-stack developer building business applications, real estate tools and AI-powered workflows.**
+I'm a full-stack developer based in Lucca, Italy. I enjoy turning everyday problems into software that makes someone's day a little easier, whether that's a business application, a small automation or an AI assistant.
 
-Based in Lucca, Italy, I work across backend development, web interfaces and API integrations. My projects range from management software and automation tools to document-grounded AI assistants.
+Most of my work starts with understanding how people do things and figuring out where software could help. From there, I like connecting the pieces: the backend, the interface, the data and the services behind it. PHP, Laravel, CodeIgniter and MySQL are familiar territory, and I also work with JavaScript, TypeScript, React and Vue when building the frontend.
 
-## What I work on
+Lately, I've been working on AI for legal and real estate workflows. I'm the main developer behind **Lex Immobilia AI**, where I've built most of the application, from the chat experience and conversation history to AI integrations and document retrieval with Pinecone. It's given me plenty of interesting problems to work through, especially around bringing documents, context and streamed responses together in one conversation.
 
-- **Business applications:** management tools for properties, customers, requests and day-to-day operations.
-- **Applied AI:** conversational interfaces, retrieval-augmented generation (RAG), vector search and streamed responses.
-- **Automation:** Telegram bots, scheduled jobs, background queues and data processing.
-- **Web interfaces:** responsive applications and marketing websites connected to PHP backends.
+You'll also find smaller projects here, like a [Telegram bot that monitors property listings](https://github.com/Piccios/bot_immobiliare) and [OvertimeLedger](https://github.com/Piccios/OvertimeLedger), an app for keeping track of overtime and exporting monthly reports. Some repositories go back to when I was learning the basics; others grew out of something I wanted to make easier or automate.
 
-## Technologies
+Away from the keyboard, I love skiing and sports, and I'm always happy to make time for a game, a film or some good music.
 
-**Backend:** PHP, Laravel, CodeIgniter, MySQL, REST APIs  
-**Frontend:** JavaScript, TypeScript, React, Vue, Bootstrap  
-**AI & integrations:** Pinecone, LLM APIs, server-sent events, Telegram Bot API  
-**Tools:** Git, Python, Redis
-
-## Selected public projects
-
-### [Real estate monitoring bot](https://github.com/Piccios/bot_immobiliare)
-
-A multi-user Telegram bot for monitoring property listings, with scheduled searches, background jobs, deduplication and user-specific notifications.
-
-**PHP · Laravel · MySQL · Redis · Telegram**
-
-### [OvertimeLedger](https://github.com/Piccios/OvertimeLedger)
-
-A web application for recording overtime, managing companies and reviewing monthly summaries, with Italian and English interfaces.
-
-**PHP · MySQL · JavaScript**
-
-## Professional focus
-
-Alongside my public repositories, I work on business management software and AI assistants for legal and real estate workflows. These projects involve conversation persistence, document retrieval, external services and interfaces designed around professional tasks.
-
-## Outside of code
-
-Skiing, sports, gaming, cinema and music.
-
-[Connect on LinkedIn](https://www.linkedin.com/in/lorenzopicchi/)
+Feel free to explore, say hello or [connect with me on LinkedIn](https://www.linkedin.com/in/lorenzopicchi/).
