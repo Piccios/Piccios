@@ -1,4 +1,4 @@
-# Hey, I'm Lorenzo! <img width="130" height="130" alt="gif" src="https://github.com/user-attachments/assets/7e2f1150-a414-4d0b-b8de-ee17225877a7" />
+# <img width="130" height="130" alt="gif" src="https://github.com/user-attachments/assets/7e2f1150-a414-4d0b-b8de-ee17225877a7" /> Hey, I'm Lorenzo! 
 
 
 I'm a full-stack developer based in Lucca, Italy. I enjoy turning everyday problems into software that makes someone's day a little easier, whether that's a business application, a small automation or an AI assistant.
